@@ -22,7 +22,7 @@ class PageDetailView(DetailView):
     """
     CHALLENGES:
       1. On GET, render a template named `page.html`.
-      2. Replace this docstring with a description of what thos accomplishes.
+      2. Replace this docstring with a description of what this accomplishes.
 
     STRETCH CHALLENGES:
       1. Import the PageForm class from forms.py.
